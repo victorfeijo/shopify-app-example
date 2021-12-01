@@ -56,3 +56,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "shopify_app", "~> 18.0"
+
+gem "dotenv-rails", "~> 2.7"
